@@ -1,0 +1,5 @@
+C:\Users\Suporte\documents\visual studio 2015\Projects\Remove\Remove\bin\Debug\Remove.exe.config
+C:\Users\Suporte\documents\visual studio 2015\Projects\Remove\Remove\bin\Debug\Remove.exe
+C:\Users\Suporte\documents\visual studio 2015\Projects\Remove\Remove\bin\Debug\Remove.pdb
+C:\Users\Suporte\documents\visual studio 2015\Projects\Remove\Remove\obj\Debug\Remove.exe
+C:\Users\Suporte\documents\visual studio 2015\Projects\Remove\Remove\obj\Debug\Remove.pdb

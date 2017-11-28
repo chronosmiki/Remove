@@ -1,0 +1,6 @@
+c:\users\suporte\documents\visual studio 2015\Projects\Remove\Remove\bin\x86\Debug\Remove.exe.config
+c:\users\suporte\documents\visual studio 2015\Projects\Remove\Remove\bin\x86\Debug\Remove.exe
+c:\users\suporte\documents\visual studio 2015\Projects\Remove\Remove\bin\x86\Debug\Remove.pdb
+c:\users\suporte\documents\visual studio 2015\Projects\Remove\Remove\obj\x86\Debug\Remove.csprojResolveAssemblyReference.cache
+c:\users\suporte\documents\visual studio 2015\Projects\Remove\Remove\obj\x86\Debug\Remove.exe
+c:\users\suporte\documents\visual studio 2015\Projects\Remove\Remove\obj\x86\Debug\Remove.pdb
